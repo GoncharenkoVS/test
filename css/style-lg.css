@@ -1,0 +1,9 @@
+@media screen and (min-width: 981px) and (max-width: 1280px) {
+  body {
+    font-size: 15px;
+    line-height: 1.525; }
+  .wrapper {
+    margin-bottom: -530px; }
+  .footer-wrapper {
+    height: 530px;
+    padding: 55px 0 0; } }
